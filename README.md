@@ -16,6 +16,8 @@
 코드 한 줄, 작은 프로젝트 하나라도  
 결국엔 누군가의 세상에 꽃이 피어나도록 만드는 씨앗이라 믿습니다.  
 
+💼 Web Backend Developer (2025.06 ~ Present)
+
 ---
 
 ### 💻 Tech Stack  
