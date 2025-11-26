@@ -9,7 +9,7 @@
 
 ---
 
-### 🌸 About Me  
+### About Me  
 > 제가 택한 길이 험하고 힘들더라도  
 > **그 길을 스스로 좋은 길로 만들어가는 사람**이 되고 싶습니다.  
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 Tech Stack  
+### Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -35,7 +35,7 @@
 </p>
 ---
 
-### 🌼 Mindset  
+### Mindset  
 > “지금 걷는 이 길이 흙길이라면,  
 > 언젠가 꽃이 피어나길 바라며 오늘도 한 줄을 쓴다.”  
 
